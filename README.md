@@ -28,7 +28,7 @@ A full-stack Employee app using React, Node.js, Express.js, and MySQL.
 ## Project Structure
 - frontend/ – React application
 - backend/ – Express REST API
-- database/ – Database schema and sample data
+- screenshots/ – App Screenshots
 
 ## API Endpoint
 `GET /api/employees`
