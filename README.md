@@ -83,14 +83,18 @@ Returns employee records from the MySQL database.
 
 
 ## Backend Setup
+```bash
 cd backend
 npm install
 npm run dev
+```
 
 ## Frontend Setup
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
 ## API Security – Explanation
 The endpoint can be secured using:
